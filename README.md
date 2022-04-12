@@ -1,5 +1,4 @@
 # House-Price-Prediction
-
 **Task**: Predict the selling price of each house
 
 **Medium Blog**: https://parisrohan.medium.com/top-3-rank-kaggle-house-prices-advanced-regression-techniques-using-bagging-ensemble-ff2a3f9b70cb
