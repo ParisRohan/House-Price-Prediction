@@ -13,12 +13,10 @@
     2.2. Outlier detection
 
 3. **Feature Engineering**:
-    3.1. Handle missing data
     
-        i. On data exploration we can see that there are few features where having a missing values makes sense. So we will impute the missing value with keyword 'Missing'
-        
-        ii. Replace the remaining categorical features with the mode of feature to impute missing values.
-        
+    3.1. Handle missing data
+        i. On data exploration we can see that there are few features where having a missing values makes sense. So we will impute the missing value with keyword 'Missing' 
+        ii. Replace the remaining categorical features with the mode of feature to impute missing values.   
         iii. Impute missing numerical features with mean of the feature.
         
     3.2. Drop the feature 'Id' as it is not required.
